@@ -1,0 +1,56 @@
+# סילבר ניכיון — Generative Engine Optimization Map
+
+> A שירותים פיננסיים business.
+
+---
+
+## Pages
+
+### Home
+https://-cb466179.zappy5.app
+
+### Services
+https://-cb466179.zappy5.app/services
+
+### Rates
+https://-cb466179.zappy5.app/rates
+
+### Contact
+https://-cb466179.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-cb466179.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-cb466179.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-cb466179.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About סילבר ניכיון
+סילבר ניכיון is a business in the שירותים פיננסיים industry.
+
+## Target Audience
+- בעלי עסקים קטנים
+- יזמי מסחר אלקטרוני
+- בעלי חנויות קמעונאיות
+- פרילנסרים
+
+## Industry
+שירותים פיננסיים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-cb466179.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-cb466179.zappy5.app/robots.txt
